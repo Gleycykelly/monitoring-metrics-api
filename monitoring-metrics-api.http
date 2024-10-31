@@ -1,0 +1,6 @@
+@monitoring_metrics_api_HostAddress = http://localhost:5037
+
+GET {{monitoring_metrics_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
